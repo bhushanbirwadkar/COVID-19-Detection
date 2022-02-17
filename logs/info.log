@@ -1,0 +1,1226 @@
+2022-02-17 09:45:44,053 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-17 09:45:44,053 - src.sound - INFO - Number of audio devices: 13
+2022-02-17 09:45:44,053 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,053 - src.sound - INFO - [('index', 1), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,053 - src.sound - INFO - [('index', 2), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,053 - src.sound - INFO - [('index', 3), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,053 - src.sound - INFO - [('index', 4), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 5), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 6), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 7), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 8), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 9), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 10), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 11), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - [('index', 12), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-17 09:45:44,069 - src.sound - INFO - Audio device configurations currently used
+2022-02-17 09:45:44,075 - src.sound - INFO - Default input device index = 0
+2022-02-17 09:45:44,075 - src.sound - INFO - Max input channels = 1
+2022-02-17 09:45:44,075 - src.sound - INFO - Default samplerate = 44100
+2022-02-17 09:49:09,345 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-17 09:49:09,346 - src.sound - INFO - Number of audio devices: 24
+2022-02-17 09:49:09,347 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,348 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,348 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,349 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,349 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,350 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,350 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,351 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,352 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,352 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,353 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,354 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,354 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,355 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,355 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-17 09:49:09,356 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 09:49:09,356 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 09:49:09,357 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,357 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-17 09:49:09,358 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,359 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,360 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 09:49:09,360 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-17 09:49:09,361 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-17 09:49:09,362 - src.sound - INFO - Audio device configurations currently used
+2022-02-17 09:49:09,362 - src.sound - INFO - Default input device index = 0
+2022-02-17 09:49:09,363 - src.sound - INFO - Max input channels = 1
+2022-02-17 09:49:09,368 - src.sound - INFO - Default samplerate = 44100
+2022-02-17 09:49:15,565 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 09:49:21,974 - src.sound - INFO - Recording Completed
+2022-02-17 09:49:22,066 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-17 09:51:10,447 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 09:51:16,521 - src.sound - INFO - Recording Completed
+2022-02-17 09:51:16,613 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-17 09:54:38,097 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 09:54:43,703 - src.sound - INFO - Recording Completed
+2022-02-17 09:54:43,800 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-17 10:04:23,637 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-17 10:04:23,637 - src.sound - INFO - Number of audio devices: 13
+2022-02-17 10:04:23,638 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,638 - src.sound - INFO - [('index', 1), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,638 - src.sound - INFO - [('index', 2), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,638 - src.sound - INFO - [('index', 3), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,638 - src.sound - INFO - [('index', 4), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,639 - src.sound - INFO - [('index', 5), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,639 - src.sound - INFO - [('index', 6), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 10:04:23,640 - src.sound - INFO - [('index', 7), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 10:04:23,640 - src.sound - INFO - [('index', 8), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,641 - src.sound - INFO - [('index', 9), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,641 - src.sound - INFO - [('index', 10), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:04:23,642 - src.sound - INFO - [('index', 11), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-17 10:04:23,642 - src.sound - INFO - [('index', 12), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-17 10:04:23,643 - src.sound - INFO - Audio device configurations currently used
+2022-02-17 10:04:23,643 - src.sound - INFO - Default input device index = 0
+2022-02-17 10:04:23,644 - src.sound - INFO - Max input channels = 1
+2022-02-17 10:04:23,644 - src.sound - INFO - Default samplerate = 44100
+2022-02-17 10:08:31,382 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-17 10:08:31,383 - src.sound - INFO - Number of audio devices: 24
+2022-02-17 10:08:31,384 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,385 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,385 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,386 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,386 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,387 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,388 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,388 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,389 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,389 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,390 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,390 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,391 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,391 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,392 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-17 10:08:31,395 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 10:08:31,395 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-17 10:08:31,396 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,396 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-17 10:08:31,397 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,397 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,398 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-17 10:08:31,398 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-17 10:08:31,399 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-17 10:08:31,399 - src.sound - INFO - Audio device configurations currently used
+2022-02-17 10:08:31,400 - src.sound - INFO - Default input device index = 0
+2022-02-17 10:08:31,401 - src.sound - INFO - Max input channels = 1
+2022-02-17 10:08:31,401 - src.sound - INFO - Default samplerate = 44100
+2022-02-17 10:08:59,350 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 10:09:05,330 - src.sound - INFO - Recording Completed
+2022-02-17 10:09:05,438 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-17 10:09:08,691 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 10:09:14,302 - src.sound - INFO - Recording Completed
+2022-02-17 10:09:14,399 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-17 10:09:34,473 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 10:09:40,581 - src.sound - INFO - Recording Completed
+2022-02-17 10:09:40,670 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-17 10:11:39,370 - src.sound - INFO - Recording started for 5 seconds
+2022-02-17 10:11:45,084 - src.sound - INFO - Recording Completed
+2022-02-17 10:11:45,190 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 00:41:51,991 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:41:51,991 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:51,991 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:41:52,006 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:41:52,006 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:41:52,006 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:41:52,006 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:42:01,658 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 00:42:06,663 - src.sound - INFO - Recording Completed
+2022-02-18 00:42:06,710 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 00:47:22,963 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:47:22,964 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:47:22,965 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,966 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,967 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,968 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,968 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,969 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,970 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,970 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,971 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,972 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,972 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,974 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,975 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,976 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,976 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:47:22,980 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:47:22,981 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:47:22,982 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,982 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:47:22,984 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,984 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,985 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:47:22,988 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:47:22,989 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:47:22,990 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:47:22,991 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:47:22,991 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:47:22,992 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:49:32,385 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:49:32,388 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:49:32,390 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,391 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,393 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,394 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,398 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,401 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,402 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,405 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,407 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,408 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,408 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,412 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,412 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,413 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,414 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:49:32,415 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:49:32,416 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:49:32,416 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,418 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:49:32,419 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,419 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,420 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:49:32,421 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:49:32,423 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:49:32,428 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:49:32,430 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:49:32,430 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:49:32,431 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:50:03,078 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:50:03,079 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:50:03,080 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,081 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,081 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,082 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,083 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,083 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,084 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,085 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,086 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,088 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,089 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,089 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,090 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,090 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,091 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:50:03,091 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:50:03,092 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:50:03,094 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,094 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:50:03,095 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,095 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,096 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:50:03,096 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:50:03,097 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:50:03,106 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:50:03,107 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:50:03,110 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:50:03,110 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:51:57,813 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:51:57,814 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:51:57,815 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,816 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,817 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,817 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,818 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,819 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,820 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,820 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,821 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,822 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,822 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,823 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,828 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,828 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,829 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:51:57,829 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:51:57,830 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:51:57,830 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,831 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:51:57,832 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,832 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,833 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:51:57,833 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:51:57,834 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:51:57,835 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:51:57,836 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:51:57,838 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:51:57,839 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:53:10,629 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:53:10,630 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:53:10,631 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,632 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,632 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,633 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,634 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,634 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,636 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,636 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,637 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,637 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,639 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,640 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,640 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,641 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,644 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:53:10,645 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:53:10,645 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:53:10,646 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,646 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:53:10,647 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,648 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,648 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:53:10,649 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:53:10,649 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:53:10,651 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:53:10,654 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:53:10,655 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:53:10,656 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:59:15,181 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 00:59:15,182 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 00:59:15,183 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,184 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,185 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,185 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,186 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,187 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,187 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,188 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,188 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,190 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,190 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,191 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,192 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,193 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,196 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:59:15,197 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:59:15,197 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 00:59:15,198 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,199 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:59:15,199 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,202 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,202 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 00:59:15,204 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:59:15,205 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 00:59:15,207 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 00:59:15,208 - src.sound - INFO - Default input device index = 0
+2022-02-18 00:59:15,208 - src.sound - INFO - Max input channels = 1
+2022-02-18 00:59:15,209 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 00:59:19,591 - heart - INFO - Extracting spectrogram
+2022-02-18 01:01:33,274 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:01:33,274 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,274 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:01:33,290 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:01:33,290 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:01:33,290 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:01:33,290 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:01:36,628 - heart - INFO - Extracting spectrogram
+2022-02-18 01:01:55,724 - heart - INFO - Extracting spectrogram
+2022-02-18 01:02:42,613 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:02:42,613 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:02:42,616 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,617 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,617 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,618 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,619 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,620 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,620 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,620 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,621 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,622 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,623 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,625 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,626 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,626 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,628 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:02:42,629 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:02:42,630 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:02:42,633 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,633 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:02:42,634 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,640 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,640 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:02:42,641 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:02:42,642 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:02:42,643 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:02:42,643 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:02:42,644 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:02:42,644 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:02:44,321 - heart - INFO - Extracting spectrogram
+2022-02-18 01:02:46,138 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:03:17,432 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 01:03:23,612 - src.sound - INFO - Recording Completed
+2022-02-18 01:03:23,716 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 01:03:34,684 - heart - INFO - Extracting spectrogram
+2022-02-18 01:03:35,082 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:09:29,351 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:09:29,351 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:09:29,351 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,356 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,356 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,357 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,358 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,358 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,358 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,359 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,359 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,360 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,360 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,360 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,361 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,361 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,361 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:09:29,362 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:09:29,363 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:09:29,363 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,364 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:09:29,365 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,365 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,366 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:09:29,366 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:09:29,366 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:09:29,368 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:09:29,368 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:09:29,369 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:09:29,370 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:09:31,649 - heart - INFO - Extracting spectrogram
+2022-02-18 01:09:32,026 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:14:02,926 - heart - INFO - Extracting spectrogram
+2022-02-18 01:14:03,326 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:14:05,285 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 01:14:11,025 - src.sound - INFO - Recording Completed
+2022-02-18 01:14:11,128 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 01:14:22,069 - heart - INFO - Extracting spectrogram
+2022-02-18 01:14:22,482 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:26:11,365 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:26:11,366 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:26:11,366 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,367 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,367 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,367 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,368 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,368 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,368 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,369 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,370 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,371 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,371 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,371 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,371 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,372 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,372 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:26:11,372 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:26:11,373 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:26:11,373 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,373 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:26:11,374 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,375 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,376 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:26:11,377 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:26:11,378 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:26:11,379 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:26:11,379 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:26:11,379 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:26:11,380 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:26:13,069 - heart - INFO - Extracting spectrogram
+2022-02-18 01:26:13,456 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:31:09,143 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:31:09,144 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:31:09,145 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,145 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,146 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,146 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,147 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,147 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,147 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,148 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,148 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,149 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,149 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,149 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,150 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,150 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,151 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:31:09,151 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:31:09,151 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:31:09,152 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,153 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:31:09,153 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,153 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,155 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:31:09,155 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:31:09,155 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:31:09,156 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:31:09,156 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:31:09,157 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:31:09,157 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:31:10,955 - heart - INFO - Extracting spectrogram
+2022-02-18 01:31:11,385 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:32:08,612 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:32:08,612 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:32:08,613 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,614 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,614 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,614 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,615 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,615 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,615 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,616 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,616 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,617 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,617 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,617 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,618 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,618 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,619 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:32:08,619 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:32:08,619 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:32:08,620 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,620 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:32:08,621 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,622 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,622 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:32:08,623 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:32:08,624 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:32:08,625 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:32:08,625 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:32:08,626 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:32:08,627 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:32:10,421 - heart - INFO - Extracting spectrogram
+2022-02-18 01:32:10,780 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:33:00,729 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:33:00,730 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:33:00,731 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,731 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,732 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,732 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,733 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,734 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,735 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,735 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,735 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,736 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,736 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,736 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,737 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,737 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,737 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:33:00,738 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:33:00,738 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:33:00,739 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,740 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:33:00,740 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,741 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,741 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:33:00,742 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:33:00,743 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:33:00,743 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:33:00,744 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:33:00,744 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:33:00,744 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:33:02,360 - heart - INFO - Extracting spectrogram
+2022-02-18 01:33:02,804 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:33:28,021 - heart - INFO - Extracting spectrogram
+2022-02-18 01:33:28,421 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:36:39,729 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:36:39,729 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:36:39,732 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,733 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,733 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,733 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,734 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,734 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,735 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,735 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,735 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,736 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,736 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,736 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,737 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,737 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,737 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:36:39,737 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:36:39,738 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:36:39,739 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,739 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:36:39,739 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,739 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,740 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:36:39,740 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:36:39,740 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:36:39,741 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:36:39,741 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:36:39,741 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:36:39,742 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:36:41,780 - heart - INFO - Extracting spectrogram
+2022-02-18 01:36:42,167 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:38:47,050 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:38:47,051 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:38:47,051 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,051 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,052 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,052 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,052 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,053 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,054 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,054 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,055 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,055 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,056 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,056 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,056 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,057 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,057 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:38:47,057 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:38:47,058 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:38:47,058 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,058 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:38:47,059 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,059 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,060 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:38:47,061 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:38:47,061 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:38:47,062 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:38:47,062 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:38:47,062 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:38:47,063 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:38:49,081 - heart - INFO - Extracting spectrogram
+2022-02-18 01:38:49,472 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:39:38,908 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:39:38,909 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:39:38,909 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,909 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,910 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,910 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,910 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,910 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,911 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,911 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,912 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,912 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,912 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,912 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,913 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,913 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,913 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:39:38,914 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:39:38,914 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:39:38,914 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,915 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:39:38,915 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,915 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,916 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:39:38,916 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:39:38,917 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:39:38,917 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:39:38,918 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:39:38,918 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:39:38,918 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:39:40,508 - heart - INFO - Extracting spectrogram
+2022-02-18 01:39:40,902 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:41:47,938 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:41:47,939 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:41:47,939 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,939 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,940 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,940 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,941 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,941 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,941 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,942 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,943 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,943 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,943 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,944 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,944 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,945 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,946 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:41:47,947 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:41:47,947 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:41:47,948 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,948 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:41:47,949 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,949 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,950 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:41:47,951 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:41:47,951 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:41:47,952 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:41:47,952 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:41:47,953 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:41:47,954 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:41:50,287 - heart - INFO - Extracting spectrogram
+2022-02-18 01:41:50,868 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:45:07,068 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:45:07,072 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:45:07,073 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,073 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,073 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,074 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,074 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,075 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,075 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,076 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,076 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,076 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,077 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,077 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,077 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,077 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,078 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:45:07,078 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:45:07,078 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:45:07,079 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,079 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:45:07,080 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,080 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,080 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:45:07,081 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:45:07,081 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:45:07,081 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:45:07,082 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:45:07,082 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:45:07,082 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:45:08,832 - heart - INFO - Extracting spectrogram
+2022-02-18 01:45:09,382 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:48:08,825 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:48:08,825 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:48:08,826 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,826 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,826 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,827 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,827 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,827 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,828 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,828 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,828 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,828 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,829 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,829 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,829 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,830 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,830 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:48:08,830 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:48:08,831 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:48:08,831 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,831 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:48:08,832 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,832 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,833 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:48:08,833 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:48:08,833 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:48:08,834 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:48:08,834 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:48:08,834 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:48:08,834 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:48:10,644 - heart - INFO - Extracting spectrogram
+2022-02-18 01:48:11,190 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:49:00,682 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:49:00,683 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:49:00,683 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,684 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,684 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,685 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,685 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,686 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,686 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,686 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,687 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,687 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,687 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,688 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,688 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,688 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,688 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:00,689 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:49:00,689 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:49:00,689 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,690 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:00,690 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,691 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,691 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:00,692 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:00,692 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:00,694 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:49:00,695 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:49:00,696 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:49:00,696 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:49:02,088 - heart - INFO - Extracting spectrogram
+2022-02-18 01:49:02,604 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:49:49,547 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:49:49,552 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:49:49,552 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,553 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,553 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,554 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,554 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,555 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,555 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,555 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,555 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,556 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,556 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,556 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,557 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,557 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,557 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:49,558 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:49:49,558 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:49:49,558 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,559 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:49,559 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,559 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,560 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:49:49,560 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:49,561 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:49:49,561 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:49:49,561 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:49:49,562 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:49:49,562 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:49:51,589 - heart - INFO - Extracting spectrogram
+2022-02-18 01:49:51,967 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:50:12,136 - heart - INFO - Extracting spectrogram
+2022-02-18 01:50:12,535 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:50:48,530 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:50:48,530 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:50:48,530 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,530 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,535 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,536 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,536 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,537 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,537 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,538 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,538 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,538 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,539 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,539 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,539 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,540 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,540 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:50:48,541 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:50:48,541 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:50:48,542 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,543 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:50:48,543 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,544 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,544 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:50:48,544 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:50:48,545 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:50:48,545 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:50:48,546 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:50:48,546 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:50:48,546 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:50:50,279 - heart - INFO - Extracting spectrogram
+2022-02-18 01:50:50,684 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:53:42,822 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:53:42,822 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:53:42,822 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,822 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,826 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,827 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,827 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,828 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,828 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,829 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,829 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,829 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,830 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,830 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,831 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,832 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,833 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:53:42,833 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:53:42,833 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:53:42,834 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,834 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:53:42,835 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,835 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,836 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:53:42,836 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:53:42,837 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:53:42,838 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:53:42,838 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:53:42,839 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:53:42,840 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:53:45,162 - heart - INFO - Extracting spectrogram
+2022-02-18 01:53:45,537 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:54:14,726 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:54:14,726 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:54:14,727 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,727 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,727 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,727 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,727 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,727 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,732 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,732 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,733 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,733 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,734 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,735 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,735 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,736 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,736 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:54:14,737 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:54:14,737 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:54:14,738 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,738 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:54:14,739 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,739 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,739 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:54:14,740 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:54:14,740 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:54:14,740 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:54:14,741 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:54:14,741 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:54:14,741 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:54:16,626 - heart - INFO - Extracting spectrogram
+2022-02-18 01:54:17,032 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:55:13,935 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:55:13,936 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,936 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,940 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,941 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,941 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,942 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,943 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,943 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:55:13,944 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:55:13,944 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:55:13,944 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,945 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:55:13,945 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,946 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,946 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:55:13,948 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:55:13,948 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:55:13,948 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:55:13,948 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:55:13,948 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:55:13,949 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:55:15,608 - heart - INFO - Extracting spectrogram
+2022-02-18 01:55:15,996 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:56:40,778 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:56:40,778 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:56:40,779 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,780 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,780 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,781 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,781 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,782 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,782 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,783 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,783 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,784 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,784 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,785 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,785 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,786 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,787 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:56:40,787 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:56:40,788 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:56:40,788 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,789 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:56:40,790 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,791 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,792 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:56:40,792 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:56:40,792 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:56:40,793 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:56:40,793 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:56:40,793 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:56:40,794 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:56:42,788 - heart - INFO - Extracting spectrogram
+2022-02-18 01:56:43,167 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:58:24,200 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 01:58:24,201 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 01:58:24,202 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,202 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,203 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,204 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,204 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,204 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,205 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,206 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,206 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,207 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,208 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,208 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,209 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,210 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,210 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:58:24,211 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:58:24,213 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 01:58:24,213 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,214 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:58:24,215 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,215 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,216 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 01:58:24,216 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:58:24,217 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 01:58:24,217 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 01:58:24,218 - src.sound - INFO - Default input device index = 0
+2022-02-18 01:58:24,218 - src.sound - INFO - Max input channels = 1
+2022-02-18 01:58:24,218 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 01:58:26,254 - heart - INFO - Extracting spectrogram
+2022-02-18 01:58:26,635 - heart - INFO - Spectrogram Extracted
+2022-02-18 01:58:39,279 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 01:58:45,496 - src.sound - INFO - Recording Completed
+2022-02-18 01:58:45,605 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 01:58:53,215 - heart - INFO - Extracting spectrogram
+2022-02-18 01:58:53,622 - heart - INFO - Spectrogram Extracted
+2022-02-18 02:01:16,348 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 02:01:22,028 - src.sound - INFO - Recording Completed
+2022-02-18 02:01:22,134 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 02:01:25,524 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 02:01:31,082 - src.sound - INFO - Recording Completed
+2022-02-18 02:01:31,187 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 02:01:41,993 - heart - INFO - Extracting spectrogram
+2022-02-18 02:01:42,457 - heart - INFO - Spectrogram Extracted
+2022-02-18 02:04:38,560 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 02:04:38,560 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 02:04:38,561 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,561 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,562 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,562 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,562 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,562 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,563 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,563 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,563 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,564 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,564 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,564 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,564 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,565 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,565 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:04:38,565 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:04:38,566 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:04:38,566 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,566 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:04:38,567 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,567 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,568 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:04:38,568 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:04:38,568 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:04:38,569 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 02:04:38,569 - src.sound - INFO - Default input device index = 0
+2022-02-18 02:04:38,570 - src.sound - INFO - Max input channels = 1
+2022-02-18 02:04:38,570 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 02:04:40,235 - heart - INFO - Extracting spectrogram
+2022-02-18 02:04:40,623 - heart - INFO - Spectrogram Extracted
+2022-02-18 02:06:14,489 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 02:06:14,490 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 02:06:14,491 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,492 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,492 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,493 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,495 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,495 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,496 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,498 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,499 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,500 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,501 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,502 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,503 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,503 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,504 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:06:14,505 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:06:14,505 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:06:14,506 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,507 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:06:14,507 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,508 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,509 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:06:14,509 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:06:14,511 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:06:14,512 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 02:06:14,513 - src.sound - INFO - Default input device index = 0
+2022-02-18 02:06:14,513 - src.sound - INFO - Max input channels = 1
+2022-02-18 02:06:14,514 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 02:08:03,201 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 02:08:03,201 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,201 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,205 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,206 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,207 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,207 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,207 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,208 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,208 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:08:03,208 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:08:03,209 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:08:03,209 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,209 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:08:03,210 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,210 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,211 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:08:03,211 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:08:03,211 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:08:03,212 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 02:08:03,212 - src.sound - INFO - Default input device index = 0
+2022-02-18 02:08:03,213 - src.sound - INFO - Max input channels = 1
+2022-02-18 02:08:03,213 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 02:09:55,336 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 02:09:55,336 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,337 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,342 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,343 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,343 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,343 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,344 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,344 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:09:55,344 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:09:55,345 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:09:55,345 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,346 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:09:55,346 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,347 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,347 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:09:55,347 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:09:55,348 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:09:55,349 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 02:09:55,350 - src.sound - INFO - Default input device index = 0
+2022-02-18 02:09:55,350 - src.sound - INFO - Max input channels = 1
+2022-02-18 02:09:55,350 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 02:12:01,479 - heart - INFO - Extracting spectrogram
+2022-02-18 02:12:01,879 - heart - INFO - Spectrogram Extracted
+2022-02-18 02:12:44,748 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 02:12:44,748 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:12:44,748 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 02:12:44,764 - src.sound - INFO - Default input device index = 0
+2022-02-18 02:12:44,764 - src.sound - INFO - Max input channels = 1
+2022-02-18 02:12:44,764 - src.sound - INFO - Default samplerate = 44100
+2022-02-18 02:24:23,610 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 02:24:29,726 - src.sound - INFO - Recording Completed
+2022-02-18 02:24:29,827 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 02:24:30,000 - src.sound - INFO - Recording started for 5 seconds
+2022-02-18 02:24:35,566 - src.sound - INFO - Recording Completed
+2022-02-18 02:24:35,658 - src.sound - INFO - Recording saved to C:\Users\Xperia\Desktop\hdp\output/recording\recorded.wav
+2022-02-18 02:24:45,529 - heart - INFO - Extracting spectrogram
+2022-02-18 02:24:47,180 - heart - INFO - Spectrogram Extracted
+2022-02-18 02:26:19,147 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-02-18 02:26:19,147 - src.sound - INFO - Number of audio devices: 24
+2022-02-18 02:26:19,147 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,147 - src.sound - INFO - [('index', 1), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,147 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,147 - src.sound - INFO - [('index', 3), ('name', 'Headset (OnePlus Bullets Wirele'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,147 - src.sound - INFO - [('index', 4), ('name', 'LG FULL HD (NVIDIA High Definit'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,163 - src.sound - INFO - [('index', 5), ('name', 'Speakers (High Definition Audio'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,163 - src.sound - INFO - [('index', 6), ('name', 'Headphones (3- OnePlus Bullets '), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,164 - src.sound - INFO - [('index', 7), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,164 - src.sound - INFO - [('index', 8), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,165 - src.sound - INFO - [('index', 9), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,165 - src.sound - INFO - [('index', 10), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,165 - src.sound - INFO - [('index', 11), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,167 - src.sound - INFO - [('index', 12), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,168 - src.sound - INFO - [('index', 13), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,168 - src.sound - INFO - [('index', 14), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:26:19,169 - src.sound - INFO - [('index', 15), ('name', 'LG FULL HD (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:26:19,169 - src.sound - INFO - [('index', 16), ('name', 'Speakers (High Definition Audio Device)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-02-18 02:26:19,170 - src.sound - INFO - [('index', 17), ('name', 'Headphones (3- OnePlus Bullets Wireless Z Stereo)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,170 - src.sound - INFO - [('index', 18), ('name', 'Headset (OnePlus Bullets Wireless Z Hands-Free AG Audio)'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:26:19,171 - src.sound - INFO - [('index', 19), ('name', 'Headphones ()'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,171 - src.sound - INFO - [('index', 20), ('name', 'Speakers (HD Audio Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,171 - src.sound - INFO - [('index', 21), ('name', 'Output (NVIDIA High Definition Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2022-02-18 02:26:19,172 - src.sound - INFO - [('index', 22), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 0), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:26:19,172 - src.sound - INFO - [('index', 23), ('name', 'Headset (@System32\\drivers\\bthhfenum.sys,#2;%1 Hands-Free AG Audio%0\r\n;(OnePlus Bullets Wireless Z))'), ('maxInputChannels', 1), ('defaultSampleRate', 8000.0)]
+2022-02-18 02:26:19,173 - src.sound - INFO - Audio device configurations currently used
+2022-02-18 02:26:19,174 - src.sound - INFO - Default input device index = 0
+2022-02-18 02:26:19,174 - src.sound - INFO - Max input channels = 1
+2022-02-18 02:26:19,174 - src.sound - INFO - Default samplerate = 44100
